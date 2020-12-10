@@ -11,7 +11,7 @@
   "main": "pace.js",
   "scripts": {},
   "dependencies": {
-    "charm": "~0.1.0"
+    "charm": "git+https://github.com/joaonzangoII/node-charm.git"
   },
   "devDependencies": {},
   "optionalDependencies": {},
